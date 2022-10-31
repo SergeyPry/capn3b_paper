@@ -1,0 +1,13 @@
+genotype	treatment	phenotype	count
+wildtype	control	normal	481
+wildtype	control	abnormal	4
+wildtype	MC	normal	517
+wildtype	MC	abnormal	18
+capn3b mut1	control	normal	447
+capn3b mut1	control	abnormal	20
+capn3b mut1	MC	normal	329
+capn3b mut1	MC	abnormal	151
+capn3b rnaless	control	normal	477
+capn3b rnaless	control	abnormal	18
+capn3b rnaless	MC	normal	325
+capn3b rnaless	MC	abnormal	131

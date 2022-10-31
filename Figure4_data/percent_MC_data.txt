@@ -1,0 +1,31 @@
+Genotype	Treatment	Percent_abnormal
+wildtype	control	2.46
+wildtype	control	0
+wildtype	control	1.12
+wildtype	control	0
+wildtype	control	0
+wildtype	0.8% MC	1.59
+wildtype	0.8% MC	3.4
+wildtype	0.8% MC	6.59
+wildtype	0.8% MC	4.71
+wildtype	0.8% MC	1.16
+capn3b mut1	control	3.28
+capn3b mut1	control	4.12
+capn3b mut1	control	4.55
+capn3b mut1	control	3.26
+capn3b mut1	control	5.61
+capn3b mut1	0.8% MC	31.17
+capn3b mut1	0.8% MC	28.74
+capn3b mut1	0.8% MC	27.72
+capn3b mut1	0.8% MC	42.16
+capn3b mut1	0.8% MC	27.43
+capn3b rnaless	control	5.77
+capn3b rnaless	control	2.73
+capn3b rnaless	control	2.31
+capn3b rnaless	control	2.56
+capn3b rnaless	control	5.48
+capn3b rnaless	0.8% MC	32.94
+capn3b rnaless	0.8% MC	32.38
+capn3b rnaless	0.8% MC	30.1
+capn3b rnaless	0.8% MC	27.78
+capn3b rnaless	0.8% MC	17.81

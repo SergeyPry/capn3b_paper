@@ -1,0 +1,25 @@
+Genotype	Treatment	Percent_abnormal
+wildtype	control	0.00
+wildtype	control	5.56
+wildtype	control	3.23
+wildtype	0.3uM APM	16.44
+wildtype	0.3uM APM	16.67
+wildtype	0.3uM APM	18.03
+wildtype	0.5uM APM	25.00
+wildtype	0.5uM APM	47.89
+wildtype	0.5uM APM	45.45
+wildtype	0.75uM APM	66.67
+wildtype	0.75uM APM	72.97
+wildtype	0.75uM APM	73.91
+capn3b rnaless	control	0.00
+capn3b rnaless	control	0.00
+capn3b rnaless	control	3.85
+capn3b rnaless	0.3uM APM	36.21
+capn3b rnaless	0.3uM APM	37.31
+capn3b rnaless	0.3uM APM	34.29
+capn3b rnaless	0.5uM APM	69.86
+capn3b rnaless	0.5uM APM	73.53
+capn3b rnaless	0.5uM APM	67.21
+capn3b rnaless	0.75uM APM	75.86
+capn3b rnaless	0.75uM APM	84.06
+capn3b rnaless	0.75uM APM	83.10

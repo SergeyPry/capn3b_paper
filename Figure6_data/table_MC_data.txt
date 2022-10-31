@@ -1,0 +1,17 @@
+genotype	treatment	phenotype	count
+wildtype	control	normal	188
+wildtype	0.3uM APM	normal	161
+wildtype	0.5uM APM	normal	115
+wildtype	0.75uM APM	normal	59
+wildtype	control	abnormal	5
+wildtype	0.3uM APM	abnormal	33
+wildtype	0.5uM APM	abnormal	78
+wildtype	0.75uM APM	abnormal	146
+capn3b rnaless	control	normal	194
+capn3b rnaless	0.3uM APM	normal	125
+capn3b rnaless	0.5uM APM	normal	60
+capn3b rnaless	0.75uM APM	normal	37
+capn3b rnaless	control	abnormal	2
+capn3b rnaless	0.3uM APM	abnormal	70
+capn3b rnaless	0.5uM APM	abnormal	142
+capn3b rnaless	0.75uM APM	abnormal	151
