@@ -19,8 +19,8 @@ If you want to replicate the data in the paper or use the code for your own purp
 ## Repository structure
 This repository is for the capn3b paper consists of the following parts:
 
-Figure4_data - Data and scripts to generate the Figure 4 of the paper. 
-Figure6_data - Data and scripts to generate the Figure 6 of the paper. 
+- [Figure4_data](https://github.com/SergeyPry/capn3b_paper/tree/main/Figure4_data) - Data and scripts to generate the Figure 4 of the paper. 
+- [Figure6_data](https://github.com/SergeyPry/capn3b_paper/tree/main/Figure6_data) - Data and scripts to generate the Figure 6 of the paper. 
 
 ## Author
 [Sergey Prykhozhij](https://github.com/SergeyPry)
